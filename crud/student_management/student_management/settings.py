@@ -26,8 +26,7 @@ SECRET_KEY = 'django-insecure-&xj71yh-1^^$4a$i04ujnooon7w(h+3ehjfsyq0d2sh=%gzc^4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 
 # Application definition
 
@@ -50,6 +49,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    
 ]
 
 ROOT_URLCONF = 'student_management.urls'
@@ -73,24 +73,22 @@ TEMPLATES = [
 WSGI_APPLICATION = 'student_management.wsgi.application'
 
 
-# Database
-# https://docs.djangoproject.com/en/4.2/ref/settings/#databases
+
+import os
 
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': os.getenv('POSTGRES_DB', 'student_management'),  # Default DB if env var is not found
-        'USER': os.getenv('POSTGRES_USER', 'postgres'),
-        'PASSWORD': os.getenv('POSTGRES_PASSWORD', '1234'),
-        'HOST': 'localhost',  # 'db' is the service name from Docker Compose
-        'PORT': '5432',  # Default port for PostgreSQL
+        'NAME': os.getenv('POSTGRES_DB', 'student_management'),  # Default DB name is 'student_management'
+        'USER': os.getenv('POSTGRES_USER', 'postgres'),  # Default user is 'postgres'
+        'PASSWORD': os.getenv('POSTGRES_PASSWORD', '1234'),  # Default password is '1234'
+        'HOST': os.getenv('DB_HOST', 'localhost'),  # Use 'db' as the hostname (service name in docker-compose)
+        'PORT': os.getenv('DB_PORT', '5432'),  # Default port mapped to 5433 on the host
     }
 }
 
 
 
-# Password validation
-# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
 
 AUTH_PASSWORD_VALIDATORS = [
     {
