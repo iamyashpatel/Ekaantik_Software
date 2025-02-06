@@ -71,7 +71,6 @@ def build_langchain_pipeline(directory):
     
     return retrieval_chain
 
-# Example usage
 def interactive_qa_session(retrieval_chain):
     print("\nWelcome to the LangChain QA System!")
     print("Type 'quit' to exit the session")
