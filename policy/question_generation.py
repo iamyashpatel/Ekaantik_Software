@@ -4,10 +4,8 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import app
 
-# Load environment variables
 load_dotenv()
 
-# Initialize OpenAI client
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def generate_policy_questions(paragraph):
@@ -61,16 +59,13 @@ def process_text_files_for_questions(input_dir, output_question_excel):
     question_data = []
     error_files = []
 
-    # Validate input directory
     if not os.path.exists(input_dir):
         raise FileNotFoundError(f"Input directory does not exist: {input_dir}")
 
-    # Create output directory if it doesn't exist
     output_dir = os.path.dirname(output_question_excel)
     if output_dir and not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    # Process each file
     for file_name in os.listdir(input_dir):
         if not file_name.endswith(".txt"):
             continue
@@ -79,7 +74,6 @@ def process_text_files_for_questions(input_dir, output_question_excel):
         print(f"\nProcessing for questions: {file_name}")
 
         try:
-            # Read file with error handling for different encodings
             content = None
             encodings = ['utf-8', 'latin-1', 'cp1252']
             
@@ -94,12 +88,10 @@ def process_text_files_for_questions(input_dir, output_question_excel):
             if content is None:
                 raise UnicodeDecodeError(f"Could not decode file with any encoding: {file_name}")
 
-            # Skip empty files
             if not content:
                 print(f"Skipping empty file: {file_name}")
                 continue
 
-            # Generate questions
             questions = generate_policy_questions(content)
             question_data.append({
                 "File Name": file_name,
@@ -114,13 +106,11 @@ def process_text_files_for_questions(input_dir, output_question_excel):
 
     # Save results
     try:
-        # Save successful question generation
         if question_data:
             question_df = pd.DataFrame(question_data)
             question_df.to_excel(output_question_excel, index=False, engine="openpyxl", sheet_name="Questions")
             print(f"\nSuccessfully saved policy questions to: {output_question_excel}")
 
-        # Save errors to a separate sheet if any occurred
         if error_files:
             error_df = pd.DataFrame(error_files)
             with pd.ExcelWriter(output_question_excel, engine="openpyxl", mode='a') as writer:
