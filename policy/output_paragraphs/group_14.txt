@@ -1,0 +1,15 @@
+3.5 Conditions for Processing Personal Data
+Managing Personal Data
+All Personal Data processed by ICICI Bank must be accurate. A record which is itself  inaccurate but which is an accurate record of information obtained from the Data Subject  or a third party is not necessarily in breach of this principle, provided:
+the purpose for which it was obtained and processed has been taken into account  and reasonable steps taken to ensure its accuracy; and
+where the Data Subject has notified his view that the Data is inacCurate, the fact  of his notification is clearly recorded, even where the Data is not itself to be  changed.
+Lawful grounds for processing personal data 
+Before personal data can be processed, any one of the following grounds listed under GDPR must be satisfied,
+the data subject must give an explicit consent to the processing;
+the processing must be necessary for the performance of a contract to which the  data subject is a party, or with a view to entering into such a contract;
+the processing must be necessary to comply with any legal obligation to which ICICI  Bank is subject, other than an obligation by contract;
+the processing is necessary for the purposes of legitimate interests pursued by lCICI  Bank or by the third party or parties to whom the data is disclosed, except where  the processing is unwarranted in any particular case because of prejudice to the  rights and freedoms or legitimate interests of the data subject; and
+the processing is necessary in order to protect the vital interest of the data subject  (i.e. it is literally 'a matter of life and death').
+Of above, option 2 is most relevant to the Bank. If you are unsure which condition is being  utilised for the processing of Personal Data you should contact the Data Protection Officer/Compliance Department.
+Conditions for Special Category Personal Data
+Special category personal data, as defined above, may only be processed in limited  circumstances and with stricter controls than other personal data.. There are additional  conditions which must be met when processing sensitive personal data, of which the most  relevant to ICICI Bank is that the data subject must give explicit consent to the processing  when the personal data is collected, although there are certain other options for  legitimising the use of special categories of data (such as if it is required by law). Explicit  consent means the individual must consent to all aspects of the processing, and that the  consent must be clear and unambiguous. ICICI Bank has determined that it holds special  category data for its employees, such as racial or ethnic origin, health records, medical  history and criminal records of employees under the Senior Management Regime and the  valid lawful basis to collect and hold this data is fulfilment of contract. For more  information refer the Employee Handbook. In certain cases, the Bank may hold special category data for its vulnerable customers to serve their specific needs post their consent.  Refer customer vulnerability policy included in Compliance manual.

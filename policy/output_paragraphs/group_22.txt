@@ -1,0 +1,15 @@
+3.13 Records retention
+Personal Data should not be kept for longer than is necessary for the purpose for which it  was being processed. Personal Data records should be periodically reviewed to assess  whether it is necessary to continue storing the personal data. Following the storage  limitation principle, the ICO states that it is also good practice to review your retention of  personal data at regular intervals.
+In this regard the Bank follows the ICO guidance on 'Deleting Personal Data'. The guidance  states that the organisations should be absolutely clear with individuals about what they  mean by deletion and what actually happens to personal data once they have deleted it.  The ICO guidance is intended to counteract the problem of organisations informing people  that their personal data has been deleted when, in fact, it is merely archived and could be re-instated.
+Difference between deleting and archiving:
+ There is a significant difference between deleting information irretrievably, archiving it in  a structured, retrievable manner or retaining it as random data in an un-emptied  electronic wastebasket. Information that is archived, for example, is subject to the same  data protection rules as live' information, although information that is in effect inert is  far less likely to have any unfair or detrimental effect on an individual than live  information. The key requirement is to put the data 'beyond use'.
+Putting information "beyond use'
+The ICO will be satisfied that information has been 'put beyond use', if not actually  deleted, provided that the data controller holding it:
+is not able, or will not attempt, to use the personal data to inform any decision in  respect of any individual or in a manner that affects the individual in any way;
+does not give any other organisation access to the personal data;
+surrounds the personal data with appropriate technical and organisational security; and
+commits to permanent deletion of the information if, or when, this becomes possible.
+https://ico.org.uk/media/for-organisations/documents/1475/deleting personal data.pdf
+ICO Guidance for HR holding employee's personal data:
+An employer should review the personal data it holds about an employee when they leave  the organisation's employment. It will need to retain enough data to enable the  organisation to deal with, for example, providing references or pension arrangements.  However, it should delete personal data that it is unlikely to need again from its records such as the employee's emergency contact details, previous addresses, or death-in-service  beneficiary details.
+Please refer the Record Maintenance Policy of the Bank, available on Bank's Intranet.

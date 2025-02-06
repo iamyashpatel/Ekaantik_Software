@@ -1,0 +1,5 @@
+3.3 Introduction to GDPR
+ICICI Bank needs to collect and use personal information and sensitive personal information  (see definitions below) about its customers, employees, vendors and others with whom it communicates. Personal data must be dealt with in accordance with the Data Protection  Legislation and includes personal information processed in any format, be it via computer  (including e-mail, cookies, IP address and the internet), certain paper files, video, audio,  telephone or other.
+Principles of the GDPR
+Where lCICI Bank determines how personal data is processed, ICICI Bank is likely to be a  data controller and have a duty to comply with the principles of the GDPR relation to  that personal data.
+The principles are summarised as follows, personal data:

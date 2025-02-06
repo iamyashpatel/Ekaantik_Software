@@ -1,0 +1,8 @@
+3.18 Data Subject Access Requests (DSAR)
+A subject access request is a request by an individual for a copy of the information held  about him on our records. ICICI Bank must provide the requested information free of  charge unless where the Bank finds the request to be unfounded or excessive under GDPR.
+During October 2020, the ICO has published guidance on handling of DSARS. The key  changes introduced are as follows:
+The data subjects can raise a DSAR request seeking information on their personal data  held by the Bank through any of the modes, including, oral, writing or through any social media site where ICICI Bank has a presence. Upon receiving such request, the  Bank will respond to the data subject without undue delay and at the latest within one  month of receipt of the request which can be extended by a further two months'  period if the request is complex or a number of requests are received from the  individual.
+The Bank can refuse to comply with the DSAR where it is manifestly unfounded or  excessive, or it is repetitive, However, if it is concluded that the Bank need not  respond to certain DSAR, We must to be able to justify our decision.
+In certain circumstances, while calculating the time available to respond to a DSAR,  the clock can be stopped whilst the Bank is waiting for the requester to clarify their  request.
+The Bank can withhold personal data sought under a Data Subject Access Request  raised by a data subject, if disclosing it would "adversely affect the rights and  freedoms of others"
+Please refer to ICICI Bank's separate Standard Operating Procedure: Data Subject Access  Request (DSAR) for more information, which was reviewed in October 2021.

@@ -1,0 +1,7 @@
+1. A data security breach can ocCur in a number of ways, SUch as:
+Loss or theft of data or equipment on which data is stored.
+Inappropriate access controls allowing unauthorised use.
+Human error in dealing with personal information.
+Unforeseen circumstances such as a fire or flood.
+Hacking attack on the Bank's IT systems.
+"Blagging offences where information ís obtained by deceiving the organisation  who holds it.

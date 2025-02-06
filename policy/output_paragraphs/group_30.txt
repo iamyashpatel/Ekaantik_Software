@@ -1,0 +1,12 @@
+3.19 Complaints and Queries
+Customer data protection complaints are most likely to fall into the following categories:
+illegal or unfair processing of the customer's data;
+excessive information held on the customer;
+inaccurate or incorrect information held;
+information being retained for longer than is necessary;
+delays in responding to Subject Access Requests, or insufficient information being supplied;
+requests to cease processing due to the processing causing damage or distress;
+unauthorised disclosure of the customer's information; and
+a marketing opt-out having been ignored.
+The DP0 should, in the first instance, handle any general data protection queries. Complaints should be handled in accodance with ICICI Bank's documented complaints  procedure.
+Complaints will be investigated by ICICI Bank's Complaints Team with guidance from the  DPO or Data Protection Manager.

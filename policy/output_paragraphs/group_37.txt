@@ -1,0 +1,45 @@
+2. The key elements for breach management are:
+Containment and recovery
+Assessment of on-going risk
+Evaluation and response
+Containment and Recovery
+Data protection breach requires not just an inítíal response to investígate and  contain the situation but also a recovery plan including, where necessary, damage limitation. This will often involve input from internal stakeholders across the bank  such as Compliance, IT, HR and Risk.
+Any data protection breach should be reported in line with the Data protection  Policy.
+The Head of Department (or his nominated Manager) where the breach has Occurred should take the lead on investigating and assessing the risks associated  with the breach with the support of the Data Protection Officer or his designated  Data Protection manager. In order to limít damage, the Head of Department should  establish whether there is anything that can be done to recover any losses the  breach can or might have caused. These could include making arrangements to  isolate or close a compromised section of the IT network, recall any erroneously  sent email, find a lost piece of equipment etc.
+The Data Protection officer or his nominated manager will inform the Police, if  appropriate.
+The Data Protection Officer or his nominated manager will notify the Information  Commissioner's Office (ICO) of the breach within 72 hours in line with guidelines  under "Notification of breaches", in consultation with the Management Committee  members. The Commissioner believes that "serious breaches" should be notified.  There is no definition for "serious breaches", but the decision would be based on  issues such as harm/distress caused to data subjects -e.g. identity theft through  loss of details on passport; volume of data lost e.g. unencrypted laptop with  personal details; and loss of sensitive data - e.g. manual file with financial records.
+The Head of department should make a report to the Management committee and the Board Risk Committee on the breach and the action taken by the Bank to  address any shortcomings.
+Assessing the risks
+The Head of Department or his designated manager should undertake an assessment of  the risks associated with the breach as a priority. The breach should be designated as a  "High", "Medium'", or "Low" risk. In placing a breach into one of these risk categories,  the assessment should consider:
+What type of data is involved?
+How sensitive is it? Is it sensitive personal details (e.g. health records) or other  data types which are sensitive because of what might happen if it is misused (e.g.  bank account details).
+If data has been lost or stolen, are there any protections in place such as  encryption?
+If data has been stolen, could it be used for purposes which are harmful to the  individuals to whom the data relate; if it has been damaged, this poses a different  type and level of risk.
+What could the data tella third party about the individual?
+Sensitive data could mean very little to an opportunistic laptop thief while the loss  of apparently trivial snippets of information could help a determined fraudster  build up a detailed picture of other people.
+How many individuals' personal data is affected by the breach? It is not necessarily  the case that the bigger risks will accrue from the loss of large amounts of data but  is certainly an important determining factor in the overall risk assessment.
+Who are the individuals whose data has been breached? Are they staff, customers,  clients or suppliers?
+What harm can come to those individuals as a result of the breach? Are there risks  to physical safety or reputation, financial loss or a combination of these and other  aspects of their life?
+Are there wider consequences to consider such as a risk to public health or loss of  public confidence in an important service you provide?
+The risk category should be approved by the Data Protection officer.
+Evaluation and Response
+In all cases involving a breach, a root cause analysis should be undertaken. The Head of  Department must provide a copy of the RCA, and any action taken to prevent future  breaches, to the Data Protection Officer.
+Data Protection Incidents and Breaches Flowchart :
+Coutroller detects de awue of a  sty sncident nd estatlsies if  eoual data beact bas occured
+ls the breach hkelr
+to result s) a nsk to
+Is the breach lukely to
+st i a hugh ask to
+ndinals rcbis and
+The controller becomnes "aware of a
+personal data breach and as5esses risk
+No requueuletut lo botify super1sor auhoutv  or Indiduals
+Notefy copeent superisory uthontý
+If the breich affecis mdrndLals i 110re 1lhan  one Menber State. otify eacu conpeteit
+supesoy auttoatty accosd1ngly
+No requfeueut to nou
+Noniv aãected snd1rduals und. vthere cequred. pro:ide
+unforation on steps they can take to p1otect tiemseles #on
+consequences of the breach
+Al breacses secordable ULde1 Article 33(5) Breacl sl1ould be docune1led asd
+record miuntauned by the controller

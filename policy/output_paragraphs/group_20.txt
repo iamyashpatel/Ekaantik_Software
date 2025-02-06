@@ -1,0 +1,9 @@
+3.11 Internal Processing Record
+The GDPR replaces the obligation for data controllers to notify the ICO of their processing activities with a mandatory requirement for the maintenance of internal records of data  processing activities by both the data controllers and processors.
+The internal processing record should include but not limited to:
+details of processing activities and lawful grounds of processing;
+categories of personal data and data subjects:
+details of any recipients of personal data; and
+applicable retention periods and relevant processes.
+The DPO is responsible for maintaining this record however it is the responsibility of all  department heads to inform the DPO of any new processing or changes to its current  processing activities.
+Refer Appendix 2 for Record of Internal Processing Activities.

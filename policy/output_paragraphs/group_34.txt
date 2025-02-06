@@ -1,0 +1,5 @@
+3.23 Notification to the Information Commissioner
+In order to process Personal Data, each legal entity in ICICI Bank UK must be registered  with the Information Commissioner. Failure to notify is an offence, as is any processing not
+included in ICICI Bank's Notification. The details of ICICI Bank's processing are entered in  the Information Commissioner's Register of Data Controllers, which is available for public  inspection on the Information Commissioner's website
+Substantial Damage and Distress Claims
+ICICI Bank will respond within 21 calendar days to all claims made under section 10 (right  to prevent processing likely to cause damage or distress) of the GDPR. The Data Protection  Officer will handle all such claims, with legal input if appropriate.
